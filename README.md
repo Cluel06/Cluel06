@@ -1,5 +1,24 @@
-# 💫 About Me:
-🛠 I'm currently working on:<br>Building beginner machine learning projects in Python and strengthening my maths foundations (linear algebra, probability).<br><br>🤝 I'm looking to collaborate on:<br>Small ML/AI experiments, beginner Kaggle challenges, or simple research‑style learning projects.<br><br>💡 I'm looking for help with:<br>Understanding model optimisation, real‑world ML workflows, and preparing for AI‑focused internships (e.g., Trefera, UnlikelyAI).<br><br>📚 I'm currently learning:<br>Python for ML, NumPy, Pandas, scikit‑learn, Jupyter Notebooks, and core AI concepts.<br><br>💬 Ask me about:<br>My journey into machine learning, AI internships I'm targeting, or how I’m building my portfolio from scratch.<br><br>⚡ Fun fact:<br>I got into AI because I’m fascinated by how simple mathematical rules can create systems that learn complex behaviour.
+# 💫 About Me
+**Computer Science undergraduate building strong foundations in machine learning, mathematics, and practical software skills.** I’m developing my portfolio through small ML projects and steadily deepening my understanding of linear algebra, probability, and model behaviour.
+
+🔧 **Currently working on:**  
+Hands‑on ML mini‑projects in Python and strengthening core mathematical skills for AI.
+
+🤝 **Open to collaborating on:**  
+Beginner‑friendly ML experiments, Kaggle entry‑level challenges, and small research‑style learning projects.
+
+🎯 **Looking for support with:**  
+Model optimisation, structuring real‑world ML workflows, and preparing for AI‑focused internships (e.g., Trefera, UnlikelyAI).
+
+📚 **Actively learning:**  
+NumPy, Pandas, scikit‑learn, data preprocessing, training/evaluation pipelines, and essential AI concepts using Jupyter Notebooks.
+
+💬 **Ask me about:**  
+My journey into machine learning, how I’m building my portfolio from scratch, or the internships and placements I’m aiming for.
+
+⚡ **Fun fact:**  
+I got into AI after realising how simple mathematical rules can create unexpectedly complex learning behaviours.
+
 
 
 ## 🌐 Socials
