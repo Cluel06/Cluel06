@@ -10,8 +10,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" />
   </a>
 
-  <a href="https://github.com/Cluel06" style="margin-left: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" />
+  <a href="https://github.com/Cluel06">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40px" />
   </a>
 
   <a href="https://www.linkedin.com/in/sanim-mohamed/" style="margin-left: 10px;">
