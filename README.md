@@ -2,8 +2,23 @@
 🛠 I'm currently working on:<br>Building beginner machine learning projects in Python and strengthening my maths foundations (linear algebra, probability).<br><br>🤝 I'm looking to collaborate on:<br>Small ML/AI experiments, beginner Kaggle challenges, or simple research‑style learning projects.<br><br>💡 I'm looking for help with:<br>Understanding model optimisation, real‑world ML workflows, and preparing for AI‑focused internships (e.g., Trefera, UnlikelyAI).<br><br>📚 I'm currently learning:<br>Python for ML, NumPy, Pandas, scikit‑learn, Jupyter Notebooks, and core AI concepts.<br><br>💬 Ask me about:<br>My journey into machine learning, AI internships I'm targeting, or how I’m building my portfolio from scratch.<br><br>⚡ Fun fact:<br>I got into AI because I’m fascinated by how simple mathematical rules can create systems that learn complex behaviour.
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanimmohamed228@gmail.com) 
+## 🌐 Socials
+
+<p align="left">
+
+  <a href="mailto:sanimmohamed228@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" />
+  </a>
+
+  <a href="https://github.com/Cluel06" style="margin-left: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sanim-mohamed/" style="margin-left: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
+  </a>
+
+</p>
 
 ### 💻 Tech Stack
 
